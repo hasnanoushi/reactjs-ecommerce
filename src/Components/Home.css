@@ -1,0 +1,6 @@
+.carosalimg{height: 400px;}
+.homenav{background-color: white;margin: 20px;height: 60px;padding: 20px;}
+.navtext{margin: 20px;padding-left: 30px;font-size: 25px;font-family: 'Times New Roman', Times, serif;color: blue;}
+.wishlist{height: 60px;width: 80px;}
+.offers{display: flex;flex-direction: row;flex-wrap:nowrap;margin: 10px;}
+.offerimg{padding: 2px;}
